@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hcicloudasrexample">HciCloud Asr Example Begin!\n</string>
+    <string name="app_name">AndroidHciCloudAsrExample</string>
+    <string name="msg_operate_success">操作成功</string>
+    <string name="msg_operate_failed">操作失败,请检查</string>
+    <string name="result_result_null">结果为空</string>
+    <string name="result_result_is">结果为：</string>
+    <string name="voice_check_detecting">检测中</string>
+    <string name="voice_check_user_stop">用户终止音频输入</string>
+    <string name="voice_check_buffer_full">缓冲区满</string>
+    <string name="voice_check_detect_start">检测到开始端点</string>
+    <string name="voice_check_detect_end">检测到结束端点</string>
+    <string name="voice_check_no_voice_input">没有发现音频输入</string>
+
+</resources>
